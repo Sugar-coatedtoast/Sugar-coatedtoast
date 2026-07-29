@@ -8,7 +8,8 @@
 
 <img width="1280" height="720" alt="1000136417" src="https://github.com/user-attachments/assets/eecd4626-f558-4a35-84c8-380d222100d9" />
 
-<p align="center"> $${\textsf{\color{#d69749}ata}}$$  <a href="sugartoast.atabook.org">ᰔִׄ</a> $${\textsf{\color{#000000}     }}$$ $${\textsf{\color{#000000}     }}$$ $${\textsf{\color{#d69749}straw}}$$
-<a href="https://sweet-toast.straw.page">ᰔִׄ</a></p>
+<p align="center"> $${\textsf{\color{#000000}     }}$$ $${\textsf{\color{#000000}     }}$$ $${\textsf{\color{#d69749}straw}}$$
+<a href="https://sweet-toast.straw.page">ᰔִׄ</a> $${\textsf{\color{#000000}     }}$$ $${\textsf{\color{#000000}     }}$$ $${\textsf{\color{#d69749}ata}}$$
+<a href="https://sugartoast.atabook.org/">ᰔִׄ</a></p>
 
 <p align="center"> $${\textsf{\color{#e6a835}Normal dni criteria pretty much, dont cuddle boundary breakers, don't copy my designs}}$$ </p>
