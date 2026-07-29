@@ -13,3 +13,5 @@
 <a href="https://sugartoast.atabook.org/">ᰔִׄ</a></p>
 
 <p align="center"> $${\textsf{\color{#e6a835}Normal dni criteria pretty much, dont cuddle boundary breakers, don't copy my designs}}$$ </p>
+
+<p align="center"> $${\textsf{\color{#ccccff}If you would like to gift me a Zam skin, whisp me PLS PLS PLS!}}$$ </p>
