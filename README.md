@@ -8,3 +8,5 @@
 
 <img width="1280" height="720" alt="1000136417" src="https://github.com/user-attachments/assets/eecd4626-f558-4a35-84c8-380d222100d9" />
 
+<p align="center"> $${\textsf{\color{#5e92bf}ata}}$$  <a href="sugartoast.atabook.org">ᰔִׄ</a> $${\textsf{\color{#000000}     }}$$ $${\textsf{\color{#000000}     }}$$ $${\textsf{\color{#bfad5e}straw}}$$
+<a href="https://sweet-toast.straw.page">ᰔִׄ</a></p>
