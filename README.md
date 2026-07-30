@@ -8,10 +8,16 @@
 
 <img width="1280" height="720" alt="1000136417" src="https://github.com/user-attachments/assets/eecd4626-f558-4a35-84c8-380d222100d9" />
 
-<p align="center"> $${\textsf{\color{#000000}     }}$$ $${\textsf{\color{#000000}     }}$$ $${\textsf{\color{#d69749}straw}}$$
+<p align="center"> 
+$${\textsf{\color{#000000} }}$$ $${\textsf{\color{#000000}     }}$$ $${\textsf{\color{#d69749}straw}}$$
 <a href="https://sweet-toast.straw.page">ᰔִׄ</a> $${\textsf{\color{#000000}     }}$$ $${\textsf{\color{#000000}     }}$$ $${\textsf{\color{#d69749}ata}}$$
-<a href="https://sugartoast.atabook.org/">ᰔִׄ</a></p>
+<a href="https://sugartoast.atabook.org/">ᰔִׄ  </a> </p>
 
 <p align="center"> $${\textsf{\color{#e6a835}Normal dni criteria pretty much, dont cuddle boundary breakers, don't copy my designs}}$$ </p>
 
-<p align="center"> $${\textsf{\color{#ccccff}If you would like to gift me a Zam skin, whisp me PLS PLS PLS!}}$$ </p>
+<p align="center"> <img width="200" height="38" alt="1000136663" src="https://github.com/user-attachments/assets/19a95986-0ee3-40d4-a10b-6fa945541cde" /> </p>
+
+<p align="center"> $${\textsf{\color{#ccccff} If you would like to gift me a Zam skin, whisp me PLS PLS PLS! }}$$ </p>
+
+
+<p align="center"> <img width="420" height="140" alt="1000136651" src="https://github.com/user-attachments/assets/ca7a5365-1a32-433c-9700-b6d9a97dc1fb" /> </p>
