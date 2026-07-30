@@ -17,7 +17,7 @@ $${\textsf{\color{#000000} }}$$ $${\textsf{\color{#000000}     }}$$ $${\textsf{\
 
 <p align="center"> <img width="200" height="38" alt="1000136663" src="https://github.com/user-attachments/assets/19a95986-0ee3-40d4-a10b-6fa945541cde" /> </p>
 
-<p align="center"> $${\textsf{\color{#ccccff} If you would like to gift me a Zam skin, whisp me PLS PLS PLS! }}$$ </p>
+<p align="center"> $${\textsf{\color{#ccccff} If you would like to gift me a Zam pony, whisp me PLS PLS PLS! }}$$ </p>
 
 
 <p align="center"> <img width="420" height="140" alt="1000136651" src="https://github.com/user-attachments/assets/ca7a5365-1a32-433c-9700-b6d9a97dc1fb" /> </p>
