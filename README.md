@@ -1,27 +1,31 @@
-<img width="2048" height="720" alt="1000136415" src="https://github.com/user-attachments/assets/25c99de7-e130-457e-9883-d241561cc106" />
+<img width="2048" height="720" alt="1000180611" src="https://github.com/user-attachments/assets/0d5732f5-423f-4501-83c6-081f9c413955" />
 
-<img width="3712" height="720" alt="1000136416" src="https://github.com/user-attachments/assets/ebbaed36-eab1-4843-b91a-7b30067c2216" />
+<img width="2048" height="720" alt="1000180615" src="https://github.com/user-attachments/assets/ae448dfc-f393-43ca-8e03-f68a42a466b4" />
 
-<img width="3712" height="720" alt="1000136418" src="https://github.com/user-attachments/assets/94ac0373-d7c0-45aa-99da-9fd8dd0ef2b6" />
+<img width="2048" height="720" alt="1000180613" src="https://github.com/user-attachments/assets/672e7579-d5dd-48c6-8957-996fc0ce490a" />
 
-<img width="3712" height="720" alt="1000136416" src="https://github.com/user-attachments/assets/2f61568d-34f8-451b-b147-4cb79baa112f" />
 
-<img width="1280" height="720" alt="1000136417" src="https://github.com/user-attachments/assets/eecd4626-f558-4a35-84c8-380d222100d9" />
+<img width="2048" height="720" alt="1000180615" src="https://github.com/user-attachments/assets/6aa1f067-7421-4462-afe0-f8919b6809c7" />
+
+<img width="2048" height="720" alt="1000180614" src="https://github.com/user-attachments/assets/b3e38a4e-f5aa-4039-9712-ec3b83e76481" />
+
 
 <p align="center"> 
- $${\textsf{\color{#000000}     }}$$ $${\textsf{\color{#000000}     }}$$ $${\textsf{\color{#d69749}ata}}$$
+ $${\textsf{\color{#000000}     }}$$ $${\textsf{\color{#000000}     }}$$ $${\textsf{\color{#483e8a}go sign my ata by clicking here→}}$$
 <a href="https://sugartoast.atabook.org/">ᰔִׄ  </a> </p>
 
-<p align="center"> $${\textsf{\color{#e6a835}Normal dni criteria pretty much, dont cuddle boundary breakers, don't copy my designs}}$$ </p>
+<p align="center"> $${\textsf{\color{#5a3287}Normal dni criteria pretty much, dont cuddle boundary breakers, don't copy my designs}}$$ </p>
 
-<p align="center"> <img width="200" height="38" alt="1000136663" src="https://github.com/user-attachments/assets/19a95986-0ee3-40d4-a10b-6fa945541cde" /> </p>
+<p align="center"> <img width="300" height="300" alt="1000180616" src="https://github.com/user-attachments/assets/c5267f22-d2c5-4565-8565-9b7853589c20" />
+</p>
 
-<p align="center"> $${\textsf{\color{#ccccff} If you would like to gift me a Zam pony, whisp me PLS PLS PLS! }}$$ </p>
+<p align="center"> $${\textsf{\color{#3c2359} If you would like to gift me a Zam or spokeishere pony, whisp me PLS PLS PLS! }}$$ </p>
 
 
 <p align="center"> <img width="420" height="140" alt="1000136651" src="https://github.com/user-attachments/assets/ca7a5365-1a32-433c-9700-b6d9a97dc1fb" /> </p>
 
-<p align="center"> $${\textsf{\color{#000000} }}$$ $${\textsf{\color{#000000}     }}$$ $${\textsf{\color{#d69749}Knox's event Spokeishere}}$$
-<a href="https://github.com/Knox-Event">ᰔִׄ</a>$${\textsf{\color{#000000} }}$$ $${\textsf{\color{#000000}     }}$$ $${\textsf{\color{#d69749}Pt hall of media's Princezam !}}$$
-<a href="https://github.com/pt-hall-of-media">ᰔִׄ</a>$${\textsf{\color{#000000} }}$$ $${\textsf{\color{#000000}     }}$$ $${\textsf{\color{#d69749}Pt contributers' Princezam !}}$$
+<p align="center"> $${\textsf{\color{#4a2359}Nominations!}}$$
+<p align="center"> $${\textsf{\color{#000000} }}$$ $${\textsf{\color{#000000}     }}$$ $${\textsf{\color{#512359}Knox's event Spokeishere}}$$
+<a href="https://github.com/Knox-Event">ᰔִׄ</a>$${\textsf{\color{#000000} }}$$ $${\textsf{\color{#000000}     }}$$ $${\textsf{\color{#512359}Pt hall of media's Princezam !}}$$
+<a href="https://github.com/pt-hall-of-media">ᰔִׄ</a>$${\textsf{\color{#000000} }}$$ $${\textsf{\color{#000000}     }}$$ $${\textsf{\color{#512359}Pt contributers' Princezam !}}$$
 <a href="https://github.com/pt-contributers">ᰔִׄ</a></p>
