@@ -16,6 +16,9 @@
 
 <p align="center"> $${\textsf{\color{#5a3287}Normal dni criteria pretty much, dont cuddle boundary breakers, don't copy my designs}}$$ </p>
 
+<p align="center"> <img alt="Static Badge" src="https://img.shields.io/badge/Null_followers-2707-purple"> </p>
+
+ 
 <p align="center"> <img width="300" height="300" alt="1000180616" src="https://github.com/user-attachments/assets/c5267f22-d2c5-4565-8565-9b7853589c20" />
 </p>
 
