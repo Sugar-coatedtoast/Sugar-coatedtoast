@@ -29,8 +29,9 @@
 
 <p align="center"> $${\textsf{\color{#4a2359}Nominations!}}$$
 <p align="center"> $${\textsf{\color{#000000} }}$$ $${\textsf{\color{#000000}     }}$$ $${\textsf{\color{#512359}Knox's event Spokeishere !}}$$
-<a href="https://github.com/Knox-Event">ᰔִׄ</a>$${\textsf{\color{#000000} }}$$ $${\textsf{\color{#000000}     }}$$ $${\textsf{\color{#512359}Pt hall of media's Princezam !}}$$
+<a href="https://github.com/Knox-Event">ᰔִׄ</a>
+ $${\textsf{\color{#000000}     }}$$ $${\textsf{\color{#512359}PT nominations spokeishere !}}$$
+<a href="https://github.com/pony-town-nominations">ᰔִׄ</a>
+$${\textsf{\color{#000000} }}$$ $${\textsf{\color{#000000}     }}$$ $${\textsf{\color{#512359}Pt hall of media's Princezam !}}$$
 <a href="https://github.com/pt-hall-of-media">ᰔִׄ</a>$${\textsf{\color{#000000} }}$$ $${\textsf{\color{#000000}     }}$$ $${\textsf{\color{#512359}Pt contributers' Princezam !}}$$
-<a href="https://github.com/pt-contributers">ᰔִׄ</a>
-$${\textsf{\color{#000000}     }}$$ $${\textsf{\color{#512359}PT nominations spokeishere !}}$$
-<a href="https://github.com/pony-town-nominations">ᰔִׄ</a></p>
+<a href="https://github.com/pt-contributers">ᰔִׄ</a> </p>
