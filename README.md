@@ -28,7 +28,9 @@
 <p align="center"> <img width="420" height="140" alt="1000136651" src="https://github.com/user-attachments/assets/ca7a5365-1a32-433c-9700-b6d9a97dc1fb" /> </p>
 
 <p align="center"> $${\textsf{\color{#4a2359}Nominations!}}$$
-<p align="center"> $${\textsf{\color{#000000} }}$$ $${\textsf{\color{#000000}     }}$$ $${\textsf{\color{#512359}Knox's event Spokeishere}}$$
+<p align="center"> $${\textsf{\color{#000000} }}$$ $${\textsf{\color{#000000}     }}$$ $${\textsf{\color{#512359}Knox's event Spokeishere !}}$$
 <a href="https://github.com/Knox-Event">ᰔִׄ</a>$${\textsf{\color{#000000} }}$$ $${\textsf{\color{#000000}     }}$$ $${\textsf{\color{#512359}Pt hall of media's Princezam !}}$$
 <a href="https://github.com/pt-hall-of-media">ᰔִׄ</a>$${\textsf{\color{#000000} }}$$ $${\textsf{\color{#000000}     }}$$ $${\textsf{\color{#512359}Pt contributers' Princezam !}}$$
-<a href="https://github.com/pt-contributers">ᰔִׄ</a></p>
+<a href="https://github.com/pt-contributers">ᰔִׄ</a>
+$${\textsf{\color{#000000}     }}$$ $${\textsf{\color{#512359}Pt contributers' Princezam !}}$$
+<a href="https://github.com/pony-town-nominations">ᰔִׄ</a></p>
