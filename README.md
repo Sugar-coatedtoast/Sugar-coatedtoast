@@ -32,5 +32,5 @@
 <a href="https://github.com/Knox-Event">ᰔִׄ</a>$${\textsf{\color{#000000} }}$$ $${\textsf{\color{#000000}     }}$$ $${\textsf{\color{#512359}Pt hall of media's Princezam !}}$$
 <a href="https://github.com/pt-hall-of-media">ᰔִׄ</a>$${\textsf{\color{#000000} }}$$ $${\textsf{\color{#000000}     }}$$ $${\textsf{\color{#512359}Pt contributers' Princezam !}}$$
 <a href="https://github.com/pt-contributers">ᰔִׄ</a>
-$${\textsf{\color{#000000}     }}$$ $${\textsf{\color{#512359}Pt contributers' Princezam !}}$$
+$${\textsf{\color{#000000}     }}$$ $${\textsf{\color{#512359}PT nominations spokeishere !}}$$
 <a href="https://github.com/pony-town-nominations">ᰔִׄ</a></p>
